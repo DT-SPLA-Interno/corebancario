@@ -1,4 +1,5 @@
 # Demo: Bank of Anthos en AKS (namespace: `corebancario`)
+by Jose Eduardo Romero Jimenez jose.romero@dynatrace.com
 
 ## 1) Prerrequisitos
 - Azure CLI (`az`), `kubectl`, `git`.
